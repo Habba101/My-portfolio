@@ -8,6 +8,7 @@
 
 body {
   font-family: var(--default-font-family);
+  color: #272142;
   background-color: wheat;
 }
 
@@ -113,7 +114,7 @@ p {
 .email-link {
   display: flex;
   justify-content: center;
-  color: var(--primary-color);
+  color: #272142;
   font-size: 28px;
   text-decoration: none;
 }
@@ -183,6 +184,7 @@ a {
 
 nav {
   padding: 20px 0;
+  color: #272142;
 }
 
 nav ul {
@@ -221,13 +223,6 @@ footer .contact-box {
 
 footer .contact-box p {
   margin: 0;
-}
-
-footer .email-link {
-  text-decoration: none;
-  color: black;
-  font-size: 24px;
-  text-align: center;
 }
 
 footer .email-link:hover {
